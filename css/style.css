@@ -1,0 +1,20 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+	background: #1919191;
+	overflow: hidden;
+}
+
+#canvas{
+	width: 100%;
+	height: 100%;
+	background:url('http://pic26.nipic.com/20121231/668573_141616324141_2.jpg');
+	background-size: cover;
+}
+
